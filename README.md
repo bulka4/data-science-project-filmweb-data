@@ -1,2 +1,2 @@
 # data-science-project
-tu bedzie opis.
+tu bedzie opis
